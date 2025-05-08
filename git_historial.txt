@@ -1,0 +1,72 @@
+    1  ls -l
+    2  git clone https://github.com/LautaroCardozo/Prueba.git
+    3  celar
+    4  clear
+    5  git clone https://github.com/LautaroCardozo/Clase3.git
+    6  ls -l
+    7  cd Clase3
+    8  ls -l
+    9  ls -la
+   10  cd .git/
+   11  ls -la
+   12  cd ..
+   13  git status
+   14  git add .
+   15  git status
+   16  git commit -m "Agregue archivo"
+   17  git config --global user.email "lautycardozo01@gmail.com"
+   18  git config --global user.name "lautaro cardozo"
+   19  git commit -m "Agregue archivo"
+   20  git push 
+   21  git status 
+   22  git add .
+   23  git status 
+   24  git commit -m "Agregue apuntes"
+   25  git add .
+   26  git status 
+   27  git commit -m "Agregue saludo"
+   28  git status 
+   29  git status 
+   30  git add .
+   31  git commit -m "Cambie el saludo "
+   32  git push
+   33  git man'
+git man
+q
+git man'
+   34  git man
+   35  clear
+   36  git checkout initial commit
+   37  git checkout "initial commit"
+   38  git checkout "Agregue archivo "
+   39  git reset
+   40  git reset 25020d3ae6f6a79316a9948213b34fb7b622cf36
+   41  git reset -25020d3ae6f6a79316a9948213b34fb7b622cf36
+   42  git checkout 25020d3
+   43  git checkout 6bceb4a
+   44  git push 
+   45  git push origin HEAD:master
+   46  git status
+   47  git checkout 674505c
+   48  git commit -m "Ultimo commit"
+   49  git add .
+   50  git commit -m "Ultimo commit"
+   51  git push 
+   52  git push origin HEAD:master
+   53  git checkout 674505c
+   54  git checkout main
+   55  git pull
+   56  git checkout 674505c
+   57  git checkout 25020d3
+   58  git checkout main
+   59  git status 
+   60  git checkout 25020d3
+   61  git checkout 7062d9f
+   62  git checkout main
+   63  git checkout 7062d9f
+   64  git checkout main
+   65  git status 
+   66  git checkout 6bceb4a
+   67  git checkout main
+   68  history
+   69  history > git_historial.txt
